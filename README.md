@@ -1,4 +1,4 @@
-# Car-Rental-System_MySql-Project
+# Car Rental System - MySql Project
 
 ## 📌 Project Overview
 
