@@ -7,9 +7,6 @@ It simulates real-world business processes such as customer management, car avai
 
 The project focuses on building a well-structured relational database and performing advanced SQL queries to extract meaningful insights from data.
 
-![Uploading image.png…]()
-
-
 ## 🎯 Objectives
 
 - Design a relational database for a car rental business.
