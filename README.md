@@ -47,7 +47,7 @@ car_rental_sys
 - One Employee → Many Maintenance Records
 - One Booking → Many Payments
 - One Car → Many Maintenance & Fuel Logs
-- 
+  
 The database structure follows relational modeling principles to reduce redundancy and ensure data integrity.
 
 ## ⚙️ SQL Concepts Implemented:
@@ -159,8 +159,9 @@ Improved analytical and database optimization skills.
 ## 👩‍💻 Author
 
 Neha Jadhav
+
 Data Analytics & SQL Enthusiast
 
-⭐ If you like this project
+### ⭐ If you like this project
 
 Feel free to star ⭐ the repository and explore the SQL scripts!
