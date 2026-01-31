@@ -7,6 +7,8 @@ It simulates real-world business processes such as customer management, car avai
 
 The project focuses on building a well-structured relational database and performing advanced SQL queries to extract meaningful insights from data.
 
+<img width="837" height="601" alt="CarRental_MySql_Database_System" src="https://github.com/user-attachments/assets/dbcd4786-c587-463c-8e0b-4d7de5372fa1" />
+
 ## 🎯 Objectives
 
 - Design a relational database for a car rental business.
